@@ -2,12 +2,13 @@
 title: Avanish Singh
 description: Personal Website
 baseurl: ""
-url: "localhost:3000"
+url: "localhost:4000"
+
+# run using exec jekyll serve
 
 # User settings
 username: Avanish Singh
-user_description: 
-user_title: Software Engineer, Hobbyist Programmer, Competitive Coder
+user_title: Software Engineer, Competitive Programmer 
 email: avanishsingh123@gmail.com
 twitter_username: iavanish
 github_username: iavanish
