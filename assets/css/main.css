@@ -256,3 +256,7 @@ body {
 	margin:0;
 	color:#fff
 }
+
+table {
+	border: none;
+}
