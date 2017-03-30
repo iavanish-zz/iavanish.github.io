@@ -1,18 +1,16 @@
+# run using exec jekyll serve
+
 # Site settings
 title: Avanish Singh
 description: Personal Website
-baseurl: ""
-url: "localhost:4000"
-
-# run using exec jekyll serve
 
 # User settings
 username: Avanish Singh
-user_title: Software Engineer, Competitive Programmer 
-email: avanishsingh123@gmail.com
-twitter_username: iavanish
+user_title: Software Engineer, Competitive Programmer, Movie Lover 
 github_username: iavanish
-gplus_username: 
+quora_username: Avanish-Singh
+imdb_username: ur34526391
+facebook_username: iavanish 
 
 # Google-analytics
 google-analytics:
