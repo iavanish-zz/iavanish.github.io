@@ -1,19 +1,12 @@
-# run using exec jekyll serve
-
 # Site settings
 title: Avanish Singh
-description: Personal Website
 
 # User settings
 username: Avanish Singh
-user_title: Software Engineer, Competitive Programmer, Movie Lover 
+user_description: Software Engineer, Competitive Programmer, Movie Lover 
 github_username: iavanish
 quora_username: Avanish-Singh
 imdb_username: ur34526391
 facebook_username: iavanish 
-
-# Google-analytics
-google-analytics:
-  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
